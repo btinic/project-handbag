@@ -1,0 +1,15 @@
+- **Dimensions:** 220 × 150 × 70 mm (W × H × D)
+- **Color:** Matte black
+- **Accents:** Subtle blue and purple curved lines
+- **Shape:** Soft rectangular silhouette with rounded corners
+- **Texture:** Flexible panels with a wave pattern
+- **Structure:** Rigid frame and base with flexible body panels
+- **Materials:** PETG (rigid), TPU (flexible)
+- **Strap:** Adjustable, detachable black shoulder strap
+- **Closure:** Hidden magnetic clasp
+- **Interior:** Soft fabric lining
+- **Personalization:** Small Greek Φ emblem on the front flap
+- **Capacity:** Phone, wallet, keys, and small accessories
+- **Manufacturing:** Modular 3D printing and assembly
+- **CAD Software:** AutoCAD
+- **Budget:** €30–60

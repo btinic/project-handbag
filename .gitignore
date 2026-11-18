@@ -1,0 +1,14 @@
+# AutoCAD
+*.bak
+*.ac$
+*.dwl
+*.dwl2
+*.sv$
+
+# Python
+__pycache__/
+.venv/
+
+# Windows
+Thumbs.db
+Desktop.ini
